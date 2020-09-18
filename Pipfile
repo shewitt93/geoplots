@@ -12,6 +12,7 @@ pandas = "*"
 numpy = "*"
 plotly = "*"
 chart-studio = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.8"

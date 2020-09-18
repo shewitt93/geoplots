@@ -13,6 +13,7 @@ numpy = "*"
 plotly = "*"
 chart-studio = "*"
 sklearn = "*"
+nbconvert = "*"
 
 [requires]
 python_version = "3.8"
